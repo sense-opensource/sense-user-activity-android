@@ -21,7 +21,6 @@
 ![Keystroke](https://img.shields.io/badge/Keystroke-blue)
 ![Scroll](https://img.shields.io/badge/Scroll_Metrics-green)
 ![Touch](https://img.shields.io/badge/Touch_Metrics-orange)
-![Mouse](https://img.shields.io/badge/Mouse_Movements-yellow)
 ![Orientation](https://img.shields.io/badge/Orientation-purple)
 
 <p> Sense is a client side library that enables you to identify users by pinpointing their hardware and software characteristics. This is done by computing a token that stays consistent in spite of any manipulation.</p>
